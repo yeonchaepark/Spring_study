@@ -1,2 +1,2 @@
 # Spring_study
-Spring 공부를 기록하는 레포입니다.
+Spring 공부를 기록하는 레포입니다. 파이팅
